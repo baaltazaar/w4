@@ -16,9 +16,8 @@ p {text-align: center;}
 
 *This is a test repository!* </p>
 
-<a href="{{ site.github.repository_url }}/blob/master/wiki/Aa.md">BB</a>
-
-<h1><a href="/blob/master/wiki/Aa.md">Aa</a></h1>
+<h1><a href="https://baaltazaar.github.io/w4/Aa">Aa</a></h1>
+<h1><a href="https://baaltazaar.github.io/w4/Bb">Bb</a></h1>
 <h1> [Bb](Bb.md) </h1>
 <h1> [Cc](Cc.md) </h1>
 <h1> [Dd](Dd.md) </h1>
