@@ -10,7 +10,7 @@ A framework to describe and classify terms.
 
 | [Aa](Aa.md) | [Bb](Bb.md) | [Cc](Cc.md)
 --
-| [Dd](Dd.md) |[Ee](Ee.md) |[Ff](Ff.md)
+| [Dd](Dd.md) | [Ee](Ee.md) | [Ff](Ff.md)
 --
 
 
