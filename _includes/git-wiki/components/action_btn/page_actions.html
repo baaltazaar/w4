@@ -1,0 +1,12 @@
+<div class="git-wiki-tools">
+    {% if site.use_github_wiki %}
+    <span class="tools-element"><a target="_blank" href="{{ site.github.repository_url }}/wiki/_new">Add new</a></span>
+    <span class="tools-element"><a target="_blank" href="{{ site.github.repository_url }}/wiki/Add-new-terms">HowTo</a></span>
+    {% else %}
+    <span class="tools-element"><a target="_blank" href="{{ site.github.repository_url }}/new/{{site.git_branch | escape}}?filename={{ site.site_root | default: '/' }}{{ site.wiki_folder }}/">Add
+            new</a></span>
+    <span class="tools-element"><a target="_blank" href="{{ site.github.repository_url }}/wiki/Add-new-terms">HowTo</a></span>
+       </a></span>
+    <br>
+    {% endif %}
+</div>
