@@ -1,22 +1,22 @@
 ---
 redirect_from: "/"
 ---
-
-# Welcome to the Taxonomy! 
-
-A framework to describe and classify terms.
-
-*This is a test repository!*
-
 <html>
 <head>
 <style>
 h1 {text-align: center;}
 p {text-align: center;}
-div {text-align: center;}
 </style>
 </head>
 <body>
+  
+<h1> Welcome to the Taxonomy!</h1> 
+
+A framework to describe and classify terms.
+
+*This is a test repository!*
+
+
 
 <h1> [Aa](Aa.md)</h1>
 <h1>  [Bb](Bb.md)</h1>
