@@ -16,7 +16,7 @@ p {text-align: center;}
 
 *This is a test repository!* </p>
 
-<a href="{{ site.github.repository_url }}/Aa.md">CC</a>
+<a href="{{ site.github.repository_url }}/blob/master/wiki/Aa.md">BB</a>
 
 <h1><a href="/blob/master/wiki/Aa.md">Aa</a></h1>
 <h1> [Bb](Bb.md) </h1>
